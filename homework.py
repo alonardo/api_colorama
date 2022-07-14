@@ -69,5 +69,4 @@ class User_prompt():
 
 if __name__ == "__main__":
     User_prompt.main()
-
-            
+    
